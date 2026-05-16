@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Geed Deeble NDVI Ecosystem Analysis
+message: If you use this workflow, please cite it as below.
+type: software
+authors:
+  - family-names: Ismail
+    given-names: Ahmed Hussein
+year: 2026
+repository-code: https://github.com/your-username/geed-deeble-ndvi-ecosystem-analysis
+keywords:
+  - NDVI
+  - Landsat
+  - Google Earth Engine
+  - Somaliland
+  - dryland ecosystems
+  - remote sensing
