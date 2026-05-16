@@ -71,8 +71,6 @@ geed-deeble-ndvi-ecosystem-analysis/
 │   ├── maps/
 │   └── tables/
 ├── docs/
-├── manuscript_assets/
-└── linkedin/
 ```
 
 ## Tools Used
